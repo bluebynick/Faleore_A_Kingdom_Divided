@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Castle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ castleImage\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=timer\ typey
+comment1.target=Castle(SimpleTimer,\ java.lang.String)
+comment10.params=
+comment10.target=void\ act()
+comment2.params=
+comment2.target=void\ axelaImage()
+comment3.params=
+comment3.target=void\ dannickaImage()
+comment4.params=
+comment4.target=java.lang.String\ originalImage()
+comment5.params=
+comment5.target=java.lang.String\ dannickaImageItself()
+comment6.params=
+comment6.target=java.lang.String\ axelaImageItself()
+comment7.params=s
+comment7.target=java.lang.String\ setController(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getController()
+comment9.params=
+comment9.target=void\ decision()
+numComments=11

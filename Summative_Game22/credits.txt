@@ -1,0 +1,17 @@
+Game coded and developped by Nicholas Paul
+
+Credits for the Music go to Adrian Von Ziegler
+
+Credits for the scanText ()  and createText() methods in instructions 
+and credits go to davmac 
+davmac(2012/5/15) filereader [Source code]. http://www.greenfoot.org/scenarios/5177
+
+
+
+
+
+
+
+
+
+

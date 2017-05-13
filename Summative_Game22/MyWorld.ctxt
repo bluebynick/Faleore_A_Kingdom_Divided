@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=MyWorld\ is\ the\ princile\ world\ class\ where\ the\ game\ is\ created\ and\ run.\ \r\n\ \r\n\ This\ is\ a\ real-time\ strategy\ game\ with\ a\ lot\ of\ funtionality.\ It\ is\ highlighted\ \r\n\ in\ the\ attached\ word\ doc\ exactly\ what\ functionality\ is\ included.\ \r\n\ Enjoy\!\r\n\ \r\n\ @Nicholas\ Paul\r\n\ @version\ 18\r\n\ Jan\ 23rd\ 2017\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Basic,\ no\ parameter\ constructer\ for\ MyWorld.\ \r\n\ This\ immediately\ sets\ the\ world\ to\ an\ instance\ of\ MenuScreen,\ whilst\r\n\ generating\ a\ world\ by\ initializing\ the\ variables\ and\ calling\ create\r\n\ world\ in\ the\ background.\ The\ world\ is\ then\ changed\ from\ MenuScreen\ \r\n\ back\ to\ the\ already\ created\ game\ world.\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ initialize()
+comment2.text=\r\n\ This\ is\ an\ initializer\ method\ that\ resets\ all\ the\ static\ variables.\r\n\ It\ is\ used\ when\ the\ game\ uses\ it's\ restart\ feature.\ \r\n
+comment3.params=
+comment3.target=void\ createWorld()
+comment4.params=
+comment4.target=void\ buttonsFunctions()
+comment4.text=\r\n\ This\ is\ a\ method\ to\ handle\ the\ fuctions\ of\ the\ buttons\ in\ the\ game\ screen.\r\n\ It's\ essentially\ just\ handling\ the\ back\ button,\ stopping\ the\ music\ and\ \r\n\ changing\ the\ world\ back\ to\ the\ menu.\ \r\n
+comment5.params=
+comment5.target=void\ clock()
+comment6.params=
+comment6.target=void\ selectionStage()
+comment7.params=
+comment7.target=void\ act()
+numComments=8

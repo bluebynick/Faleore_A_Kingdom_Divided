@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Brick
+comment0.text=Brick\ is\ an\ abstract\ class\ that\ is\ used\ only\ for\ the\ graphic\ of\ the\ map\r\n\ generation.\ \r\n\ Nicholas\ Paul\r\n\ @version\ 22\r\n
+comment1.params=l\ w\ colour
+comment1.target=Brick(int,\ int,\ java.awt.Color)
+comment1.text=Basic\ constructor\ for\ the\ class\ Brick.\r\n
+numComments=2

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=PopUp
+comment0.text=PopUp\ is\ a\ class\ that\ handles\ the\ funcitonality\ of\ the\ details\ of\ the\ game\r\n\ \r\n\ PopUp\ has\ 4\ seperate\ constructors\ that\ all\ provide\ different\ functionality\r\n\ to\ the\ game.\ The\ first\ constructor\ is\ a\ constructor\ that\ takes\ in\ the\ \r\n\ information\ about\ a\ specific\ city\ and\ creates\ a\ pop-up\ informational\ \r\n\ dialogue\ displaying\ important\ information.\ The\ second\ constructor\ takes\r\n\ in\ information\ then\ creates\ the\ decision\ dialogue.\ The\ third\ constructor\ \r\n\ deals\ with\ the\ combat\ mechanics.\ The\ fourth\ constructor\ deals\ with\ the\ \r\n\ faction\ choosing\ at\ the\ beggining\ of\ the\ game.\ This\ is\ a\ very\ intensive\r\n\ class\ that\ holds\ references\ to\ objects\ and\ references\ to\ references\ \r\n\ that\ are\ being\ passed\ by\ multiple\ constructors.\ I'm\ very\ proud\ of\ this\ class.\r\n\ \r\n\r\n\ @author\ Nicholas\ Paul\r\n\ @version\ Jan\ 23rd\ 2017\r\n
+comment1.params=gameWorld\ referToTimer\ castleOrVillage\ referToController\ referToType\ defendingTroops\ referenceToObject\ bubbleX\ bubbleY
+comment1.target=PopUp(greenfoot.World,\ SimpleTimer,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ Cities,\ int,\ int)
+comment1.text=\r\n\ This\ is\ the\ constructor\ that\ makes\ the\ popup\ window\ and\ deals\ with\ \r\n\ the\ bubble\ and\ stuff\r\n
+comment2.params=gameWorld\ referToTimer\ castleOrVillage\ referToType\ striker\ bubbleX\ bubbleY
+comment2.target=PopUp(greenfoot.World,\ SimpleTimer,\ java.lang.String,\ java.lang.String,\ Cities,\ int,\ int)
+comment2.text=\r\n\ This\ is\ the\ constructor\ that\ deals\ with\ the\ decisions,\ same\r\n\ background\ just\ different\ things\ in\ the\ parameters\r\n
+comment3.params=gameWorld\ referToTimer\ cOv\ troops\ defendingTroops\ refToObject
+comment3.target=PopUp(greenfoot.World,\ SimpleTimer,\ java.lang.String,\ int,\ int,\ Cities)
+comment3.text=\r\n\ This\ is\ the\ constructor\ that\ deals\ with\ combat,\ same\ background\ just\r\n\ different\ things\ in\ the\ parameters\r\n
+comment4.params=gameWorld\ p
+comment4.target=PopUp(greenfoot.World,\ java.lang.String)
+comment4.text=\r\n\ This\ is\ the\ constructor\ that\ deals\ with\ the\ choosing\ of\ sides,\ same\r\n\ background\ just\ different\ things\ in\ the\ parameters\r\n
+comment5.params=
+comment5.target=void\ clock()
+comment6.params=
+comment6.target=int\ calcuate()
+comment7.params=s
+comment7.target=boolean\ isNumeric(java.lang.String)
+comment8.params=i
+comment8.target=java.lang.String\ chooseMessage(int)
+comment9.params=
+comment9.target=void\ act()
+numComments=10

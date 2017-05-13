@@ -1,0 +1,35 @@
+Faleore; a Kingdom Divided is a real-time strategy game focused on the 
+war of Faleore. In the game the player will be asked to choose between
+two factions, the people of Axela and those of Dannicka, then asked 
+to choose which cities (castles and villages) are under your command as
+new ruler of the people. The cities you choose will have an outcome on
+how you fare in the game and they each have their own individual benefits. 
+
+Gameplay:
+The game itself is fairly simple. Each city has it's own specific type
+of benefit that can be viewed after selection by clicking upon the 
+city. The benefits are: 
+-Cultural benefits that improve citizens' happiness
+-Military boost that improve the max amount of solider's that can be trained
+-Gold Production boost that improves the rate at which your gold increases
+A healthy balance of the three is very important and the king/queen will
+be presented with specific choices pertaining to each individual city's
+needs and benefits. 
+
+The end goal is to control every city in the land and thus when you feel
+that you have enough troops you can attack other cities through the 
+combat mechanic. You cannot attack a city that has more defending troops
+than you are attacking with and there are certain benefits to attacking
+with more troops. If you have 100 more than your opponent, your dice
+roll can be greater than, equal to or one less and still win. Greater 
+number by less than 100 means your roll can be greater than or equal to.
+Same number of troops means your roll must be greater than your enemy. 
+
+One of the princple aspects of the game is the decision princple.
+Every 10 seconds the game will present the king/queen with a different 
+decision pertaining to something happening in the realm and the user
+chooses whether or not to pay a fee and resolve the issue. If the user
+chooses to pass on helping too many times, it is likely the citizens 
+will grow angry and rebel. 
+
+The king/queen can train a small amount of troops for a fee.  

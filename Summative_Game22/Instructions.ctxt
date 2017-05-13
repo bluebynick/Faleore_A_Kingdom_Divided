@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Instructions
+comment0.text=This\ is\ a\ scrolling\ world\ class\ that\ holds\ the\ instructions\ to\ the\ game.\ \r\n\ By\ repositioning\ all\ the\ text\ actors\ realtive\ to\ the\ up\ or\ down\ buttons\ \r\n\ being\ clicked,\ I\ effectively\ made\ a\ scrolling\ world\ as\ the\ all\ the\ actors\r\n\ move\ up\ when\ up\ is\ pressed\ or\ they\ move\ down\ when\ down\ is\ pressed.\ \r\n\ Basically\ there\ is\ an\ arraylist\ of\ lines\ and\ a\ \r\n\ int\ counter\ and\ offcounter.\ Counter\ is\ the\ index\ of\ the\ line\ that\ is\r\n\ to\ be\ added\ to\ the\ screen\ from\ the\ bottom\ and\ offcounter\ is\ the\ index\r\n\ of\ the\ line\ that\ should\ be\ added\ to\ the\ top\ should\ you\ scroll\ down.\ They\r\n\ both\ increase\ or\ decrease\ relative\ to\ the\ amount\ of\ times\ the\ scroll\ up\r\n\ or\ scroll\ down\ button\ is\ pressed\ and\ in\ the\ button\ functions\ method,\ it\ goes\r\n\ through\ a\ for\ loop\ of\ the\ whole\ array,\ repositions\ what\ needs\ to\ be,\ removes\r\n\ any\ at\ the\ top\ or\ bottom\ then\ adds\ the\ line\ at\ counter\ or\ offCounter.\ There\ \r\n\ is\ also\ a\ button\ to\ reset\ the\ instructions\ to\ the\ top\ by\ removeing\ all\ the\r\n\ objects\ and\ reseting\ the\ counters.\ \r\n\ Pretty\ genius\ if\ i\ do\ say\ so\ myself,\r\n\ and\ the\ best\ part\ of\ the\ whole\ thing\ is\ that\ i\ came\ up\ with\ it\ 100%\ by\r\n\ myself.\ I'm\ proud\!.\ \r\n\ \r\n\ @Nicholas\ Paul\ \r\n\ @Version\ 18\r\n
+comment1.params=
+comment1.target=Instructions()
+comment1.text=This\ is\ a\ general\ constructor\ for\ the\ instructions\ class.\r\n\ It\ creates\ the\ buttons\ and\ labels.\r\n
+comment2.params=
+comment2.target=void\ buttonsFunctions()
+comment2.text=This\ method\ controls\ the\ functionality\ of\ the\ buttons.\r\n\ It\ is\ here\ that\ the\ counters\ are\ manipulated\ to\ show\ different\ index\r\n\ dependant\ on\ how\ far\ up\ or\ down\ the\ user\ has\ scolled.\ Objects\ are\ \r\n\ added\ to\ the\ world\ dependant\ on\ the\ conters\ and\ removed\ dependant\ on\ \r\n\ the\ counters.\ All\ the\ text\ actors\ are\ deleted\ and\ recreated\ when\ back\r\n\ to\ top\ is\ clicked.\ \r\n
+comment3.params=
+comment3.target=void\ createText()
+comment3.text=This\ is\ a\ method\ to\ create\ text\ actors\ to\ represent\ text\ in\ a\ given\ file\ Concept\:\ davmac.\r\n\ This\ method\ takes\ a\ string\ array\ from\ scanText\ and\ creates\ actors.\r\n\ I\ could\ find\ any\ other\ way\ to\ do\ this\ apart\ from\ his\ method,\ and\ \r\n\ though\ it\ is\ not\ directly\ copy-pasted,\ i'm\ using\ his\ concept.\ \r\n\ What\ i\ did\ to\ this\ method\ was\ have\ it\ add\ the\ actors\ to\ an\ arraylist\ \r\n\ and\ only\ add\ the\ ones\ that\ could\ fit\ on\ the\ screen.\ The\ others\ just\ \r\n\ be\ created\ and\ wait\ to\ be\ added\ from\ the\ scroll\ functionality\ in\ \r\n\ buttonFuncitons().\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String[]\ scanText()
+comment4.text=This\ is\ a\ method\ that\ scans\ a\ specific\ text\ file\ and\ assigns\ the\ values\ to\ a\ string\ array\ Author\:\ davmac.\r\n\ I\ could\ find\ any\ other\ way\ to\ do\ this\ apart\ from\ his\ method,\ and\ \r\n\ though\ it\ is\ not\ directly\ copy-pasted,\ i'm\ using\ his\ concept.\ \r\n
+comment5.params=
+comment5.target=void\ act()
+numComments=6

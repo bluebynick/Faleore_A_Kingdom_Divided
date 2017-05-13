@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cities
+comment0.text=Cities\ is\ an\ abstract\ class\ that\ provides\ the\ bluprints\ for\ Village\ and\ Castle\r\n\ \r\n\ Cities\ uses\ the\ concepts\ of\ abstraction\ very\ well\ and\ objects\ references\r\n\ are\ created\ around\ the\ program\ (specifically\ in\ pop-up)\ that\ require\ a\ \r\n\ the\ general\ cities\ class\ to\ be\ referenced,\ it's\ abstract\ methods\ and\ \r\n\ variables\ being\ soon\ after\ used.\ I\ used\ the\ concepts\ of\ inheritance\ and\ \r\n\ abstractoin\ pretty\ thorougly\ with\ this\ guy\ and\ look\ at\ the\ end\ of\ the\r\n\ act\ method\ in\ PopUp\ to\ see\ where/how\ it's\ used.\r\n\ \r\n\ @author\ Nicholas\ Paul\r\n\ @version\ Jan\ 23rd\ 2017\r\n
+comment1.params=
+comment1.target=void\ strikeChecker()
+comment2.params=s
+comment2.target=java.lang.String\ setController(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getController()
+comment4.params=
+comment4.target=void\ axelaImage()
+comment5.params=
+comment5.target=void\ dannickaImage()
+comment6.params=
+comment6.target=void\ decision()
+comment7.params=
+comment7.target=java.lang.String\ originalImage()
+comment8.params=
+comment8.target=java.lang.String\ dannickaImageItself()
+comment9.params=
+comment9.target=java.lang.String\ axelaImageItself()
+numComments=10

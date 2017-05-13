@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=This\ is\ a\ class\ that\ creates\ a\ button\ based\ on\ a\ specific\ length\ and\ width.\r\n\ \r\n\ Nicholas\ Paul\r\n\ @version\ 22\r\n
+comment1.params=l\ w
+comment1.target=Button(int,\ int)
+comment1.text=This\ is\ a\ costructor\ for\ the\ class\ that\ takes\ in\ a\ legnth\ and\ width\ parameter.\ \r\n\ The\ greenfootimage\ is\ created\ with\ the\ recieved\ length\ and\ width.\ The\ color\ is\ \r\n\ assigned\ to\ blue\ because\ it\ goes\ along\ with\ the\ scheme.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

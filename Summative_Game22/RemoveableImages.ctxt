@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RemoveableImages
+comment0.text=This\ is\ a\ class\ that\ creates\ images\ in\ the\ game\ and\ then\ reomves\ them.\r\n\ Nicholas\ Paul\r\n\ @version\ 22\r\n
+comment1.params=
+comment1.target=int\ enemyX()
+comment1.text=This\ is\ a\ method\ that\ gets\ the\ x\ location\ of\ the\ closest\ enemy\r\n
+comment2.params=
+comment2.target=int\ enemyY()
+comment2.text=This\ is\ a\ method\ that\ gets\ the\ y\ location\ of\ the\ closest\ enemy\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4
